@@ -1,0 +1,144 @@
+body{
+	
+	background-color: #808080
+}
+*{
+	margin:0;
+	padding:0;
+	list-style: none;
+	text-decoration: none;
+}
+
+p{
+	color: #101010;
+	font-size:18px;	
+}
+
+	
+
+.header{
+	width: 100%;
+	height: 80px;
+	display: block;
+	background-color: #192841;
+}
+ 
+ 
+	
+	.my_name{
+	height: 100% ;
+		display: table;
+		float: left;
+	}
+	
+	h1{
+		color: #DEC19B;
+		height: 90%;
+		display: table-cell;
+		vertical-align: middle;
+		font-size:38px;
+		text-align: left;
+	}
+	
+	.nav{
+		float: right;
+		height: 100%;
+	}
+	
+	.nav a{
+		height: 100% ;
+		display: table;
+		float: left;
+		padding: 0px 100px;
+	}
+	
+	.nav a li{
+		display: table-cell;
+		vertical-align: middle;
+		height: 100%;
+		color: #DEC19B;
+		font-size: 28px;
+		
+	}
+	
+	h2{
+	font-weight: bold;
+    font-size: 5rem;
+    color:#f9f295;
+	}
+	
+
+ 
+.counter{
+	 
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	justify-content: space-around;
+	color:#f9f295;
+	background-repeat: no-repeat;
+	
+}
+	
+.countdown {
+	display: flex;
+	justify-content: space-around;
+	
+	
+	width:100%;
+}
+	
+
+	
+	
+.header{
+	width: 100%;
+	height: 80px;
+	display: block;
+	background-color: #192841;
+}
+ 
+ 
+	
+	.my_name{
+	height: 100% ;
+		display: table;
+		float: left;
+	}
+	
+
+p{
+	color:#f9f295;
+	}
+.day,
+.hour,
+.minute,
+.second{
+	font-size: 3rem;
+
+}
+.rio{
+	height: 500px;
+	width:100%;
+	size:50%;
+}
+.nav{
+		float: right;
+		height: 100%;
+	}
+	
+	.nav a{
+		height: 100% ;
+		display: table;
+		float: left;
+		padding: 0px 100px;
+	}
+	
+	.nav a li{
+		display: table-cell;
+		vertical-align: middle;
+		height: 100%;
+		color: #DEC19B;
+		font-size: 28px;
+		
+	}
